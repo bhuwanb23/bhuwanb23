@@ -29,17 +29,67 @@ I enjoy working on full-stack systems, turning ideas into impactful applications
 
 ## 📌 Featured Projects
 
-### 🌱 AI-Powered Education App
-> Regional learning support using multimodal AI – MCQs, book solutions, visual doubts, and gamified engagement.
+### 🔷 StartupHub – Startup-Investor-Collaboration Platform  
+> Empowering startups, researchers, and investors to connect, fund, and grow together.
 
-### 🧠 Smart Campus Assistant
-> Intelligent platform for students and faculty – scheduling, peer exchanges, real-time updates, and safety alerts.
+A smart ecosystem that bridges the gap between **idea creators**, **early-stage startups**, **investors**, and **mentors**. StartupHub is built to simplify the journey from innovation to commercialization.
 
-### 🚍 UrbanFlow
-> Multimodal mobility app for eco-routing using real-time data, traffic, and transit APIs.
+**Key Features:**
+- Investor registration and curated startup matching  
+- Startup idea evaluation using AI metrics  
+- Collaboration boards for researchers and startups  
+- Funding request and tracking dashboard  
+- Idea maturity score and improvement suggestions
 
-### 📊 Startup Portal
-> All-in-one platform for startups, innovators, and investors to collaborate and build the future.
+**Tech Used:** React | Node.js | Firebase | OpenAI API | MySQL  
+
+---
+
+### 🧠 Insider – AI-Powered Campus Assistant  
+> All-in-one platform for students, faculty, and administrators on smart campuses.
+
+Insider leverages AI and automation to streamline day-to-day campus life. From **smart scheduling** and **task management** to **resource exchange** and **safety alerts**, it enhances collaboration, organization, and real-time updates.
+
+**Key Features:**
+- Personalized task and schedule planner  
+- Campus map with AI-powered navigation  
+- Peer-to-peer resource sharing system  
+- Safety alerts and emergency protocols  
+- AI-driven productivity suggestions  
+
+**Tech Used:** Flutter | Firebase | Node.js | OpenAI | Geolocation APIs  
+
+---
+
+### 📚 Gyanslate – Rural EdTech AI Platform  
+> Making quality education accessible to every student, regardless of location or background.
+
+Gyanslate is an **offline-first**, **AI-powered educational assistant** designed for rural and underserved students. It transforms traditional textbook-based learning with multimodal support and gamified engagement.
+
+**Key Features:**
+- AI-generated MCQs and visual book solutions  
+- Classroom-style doubt resolution via chat  
+- Regional language support and visual aids  
+- Gamified feedback, accountability, and peer teaching  
+- Role-based system: Admin, Teacher, Student  
+
+**Tech Used:** Flutter | Firebase | Gemini | MySQL | TensorFlow Lite  
+
+---
+
+### 🚦 UrbanFlow – Smart Mobility Platform  
+> Eco-friendly, multimodal trip planner for sustainable urban transport.
+
+UrbanFlow helps users make smarter commute decisions by combining data from **trains, buses, metro, walking, and rideshare** services. It focuses on reducing time, carbon footprint, and accessibility barriers.
+
+**Key Features:**
+- Multi-transport route planner with filters (fastest, greenest, cheapest)  
+- Real-time traffic and transit data integration  
+- Carbon savings tracker and eco-stats dashboard  
+- Accessible route recommendations for differently-abled users  
+- Trip history and predictive suggestions  
+
+**Tech Used:** React Native (Expo) | REST APIs | Firebase | Geolocation | Google Maps API  
 
 ---
 
@@ -55,6 +105,6 @@ I enjoy working on full-stack systems, turning ideas into impactful applications
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhuwanb23/)
 - 📫 Email: your-email@example.com
-- 🌐 Portfolio: [yourwebsite.com](https://bhuwanb23.github.io/portfolio)
+- 🌐 Portfolio: [website](https://bhuwanb23.github.io/portfolio)
 
 Let’s build something impactful together!
