@@ -19,11 +19,11 @@ I enjoy working on full-stack systems, turning ideas into impactful applications
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript | Python | Dart | SQL  
-- **Frontend:** React | React Native | Flutter | HTML/CSS  
-- **Backend:** Node.js | Firebase | Express | MySQL  
-- **AI/ML:** TensorFlow | Gemini/Gemma | OpenAI | Vertex AI  
-- **Tools:** Git | Figma | Postman | GCP | Vercel | Project IDX
+- **Languages:** JavaScript | Python | Dart | SQL | C/C++ | Perl | Java
+- **Full-Stack:** React | React Native | Flutter | Node.js | Firebase | Express | Django | Flask | Bun  
+- **Database Management:** PostgreSQL | MySQL | MongoDB | SQLite | Supabase
+- **Cloud & Automation:** AWS (Dynamo DB) | Azure(Synapse, Data factory, Azure ML) | Google Cloud(Vertex AI, Translation) | Oracle | n8n | Workato
+- **DevOps & Developer Tools:** Linux | Git | Github | Gitlab | Docker | Kubernetes | Promethesus | Power Bi | Plateau | Jenkins | Grafana
 
 ---
 
@@ -104,7 +104,7 @@ UrbanFlow helps users make smarter commute decisions by combining data from **tr
 ## 🤝 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhuwanb23/)
-- 📫 Email: your-email@example.com
+- 📫 Email: bhuwanseervi4567@gmail.com
 - 🌐 Portfolio: [website](https://bhuwanb23.github.io/portfolio)
 
 Let’s build something impactful together!
