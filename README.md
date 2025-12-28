@@ -2,97 +2,33 @@
 
 🚀 A passionate developer, designer, and innovator working on AI-powered products for education, smart campuses, urban mobility, and more.
 
----
+# 💫 About Me:
+I am currently working on<br><br>Building HackPrep, a desktop-based AI-powered hackathon preparation platform with end-to-end support for ideation, evaluation, datasets, pitching, and crisis management.<br><br>Designing a multi-file autonomous coding agent capable of understanding tasks, planning execution, and modifying entire project structures.<br><br>Developing UrbanFlow, a smart mobility and traffic optimization system using AI-driven insights.<br><br>Refining Cognitive Supply Chain Mesh (CSCM), a decentralized AI system for intelligent retail supply chain optimization.<br><br>I have completed / actively built<br><br>AI Compliance Copilot (REGIQ) – An AI system for fintech compliance, regulatory intelligence, model auditability, and risk prediction.<br><br>Startup Intelligence Portal – A platform with dashboards for startup performance analysis, market insights, IPR management, and resource optimization.<br><br>Hackathon Idea Evaluation AI – A system that scores and explains hackathon ideas using structured AI reasoning.<br><br>Lunar Landslide Detection System – A computer vision–based system using deep learning models (YOLO, ViT) for pixel-level terrain analysis.<br><br>Electron-based Custom Browser & Tools – Lightweight Electron applications for low-end systems, including video-focused browsers and productivity tools.<br><br>Offline-first Web Applications – Applications designed with local storage, sync mechanisms, and zero cloud dependency.<br><br>Creative AI Prompt Systems – High-quality prompts for video generation, ASMR, cinematic visuals, and surreal realism.<br><br>Key projects (one line each)<br><br>HackPrep – AI-powered hackathon OS for ideation, execution, evaluation, and pitching<br><br>UrbanFlow – Smart city traffic and mobility optimization platform<br><br>CSCM – Federated, agent-based retail supply chain intelligence system<br><br>REGIQ – AI compliance and regulatory risk analysis platform for fintech<br><br>Lunar Landslide AI – Vision-based terrain instability detection system<br><br>Startup Portal – Market intelligence and performance analytics dashboard<br><br>AI Coding Agent – Multi-file, task-aware autonomous code generator<br><br>Electron Tools – Custom browsers and desktop utilities for low-end systems<br><br>Tech stack & tools<br><br>Languages: JavaScript, Python, TypeScript<br><br>Frontend: React, Vite, Electron, HTML, CSS<br><br>Backend: Node.js, Python<br><br>AI / ML: LLMs, Computer Vision, YOLO, Vision Transformers (ViT), Federated Learning, AI Agents<br><br>Desktop & Systems: Electron.js, WebView2<br><br>Architecture: Multi-agent systems, offline-first design, modular systems, digital twins<br><br>Tools & Platforms: Ollama, GitHub, REST APIs, local-first storage<br><br>Areas of interest<br><br>AI agents and autonomous systems<br><br>Hackathon tooling and developer productivity<br><br>Smart cities and mobility intelligence<br><br>Supply chain optimization<br><br>Explainable and trustworthy AI<br><br>Offline-first and low-resource systems<br><br>Fun facts about me<br><br>I don’t just build projects—I design entire systems and ecosystems.<br><br>Most of my ideas start from real-world constraints, not trends.<br><br>I enjoy turning complex AI concepts into practical, usable software.<br><br>I prefer building tools that help builders, founders, and hackers.<br><br>I often think in terms of platforms, not single applications.
 
-## 💡 About Me
 
-I'm currently building solutions that combine AI, data, and design to address real-world problems—especially in underserved and emerging regions. My focus areas include:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhuwanb23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhuwanseervi4567@gmail.com) 
 
-- 🎓 **Education** – AI-generated assessments, visual doubt resolution, personalized learning
-- 🏫 **Smart Campuses** – Task management, peer collaboration, safety, and navigation
-- 🚦 **Urban Mobility** – Multimodal route planning, eco-routing, and accessibility
-- 💼 **Startup Ecosystems** – Platforms for collaboration between startups, researchers, and investors
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bhuwanb23&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bhuwanb23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuwanb23&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-I enjoy working on full-stack systems, turning ideas into impactful applications.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bhuwanb23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript | Python | Dart | SQL | C/C++ | Perl | Java
-- **Full-Stack:** React | React Native | Flutter | Node.js | Firebase | Express | Django | Flask | Bun  
-- **Database Management:** PostgreSQL | MySQL | MongoDB | SQLite | Supabase
-- **Cloud & Automation:** AWS (Dynamo DB) | Azure(Synapse, Data factory, Azure ML) | Google Cloud(Vertex AI, Translation) | Oracle | n8n | Workato
-- **DevOps & Developer Tools:** Linux | Git | Github | Gitlab | Docker | Kubernetes | Promethesus | Power Bi | Plateau | Jenkins | Grafana
-
----
-
-## 📌 Featured Projects
-
-### 🔷 StartupHub – Startup-Investor-Collaboration Platform  
-> Empowering startups, researchers, and investors to connect, fund, and grow together.
-
-A smart ecosystem that bridges the gap between **idea creators**, **early-stage startups**, **investors**, and **mentors**. StartupHub is built to simplify the journey from innovation to commercialization.
-
-**Key Features:**
-- Investor registration and curated startup matching  
-- Startup idea evaluation using AI metrics  
-- Collaboration boards for researchers and startups  
-- Funding request and tracking dashboard  
-- Idea maturity score and improvement suggestions
-
-**Tech Used:** React | Node.js | Firebase | OpenAI API | MySQL  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bhuwanb23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=bhuwanb23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧠 Insider – AI-Powered Campus Assistant  
-> All-in-one platform for students, faculty, and administrators on smart campuses.
-
-Insider leverages AI and automation to streamline day-to-day campus life. From **smart scheduling** and **task management** to **resource exchange** and **safety alerts**, it enhances collaboration, organization, and real-time updates.
-
-**Key Features:**
-- Personalized task and schedule planner  
-- Campus map with AI-powered navigation  
-- Peer-to-peer resource sharing system  
-- Safety alerts and emergency protocols  
-- AI-driven productivity suggestions  
-
-**Tech Used:** Flutter | Firebase | Node.js | OpenAI | Geolocation APIs  
-
----
-
-### 📚 Gyanslate – Rural EdTech AI Platform  
-> Making quality education accessible to every student, regardless of location or background.
-
-Gyanslate is an **offline-first**, **AI-powered educational assistant** designed for rural and underserved students. It transforms traditional textbook-based learning with multimodal support and gamified engagement.
-
-**Key Features:**
-- AI-generated MCQs and visual book solutions  
-- Classroom-style doubt resolution via chat  
-- Regional language support and visual aids  
-- Gamified feedback, accountability, and peer teaching  
-- Role-based system: Admin, Teacher, Student  
-
-**Tech Used:** Flutter | Firebase | Gemini | MySQL | TensorFlow Lite  
-
----
-
-### 🚦 UrbanFlow – Smart Mobility Platform  
-> Eco-friendly, multimodal trip planner for sustainable urban transport.
-
-UrbanFlow helps users make smarter commute decisions by combining data from **trains, buses, metro, walking, and rideshare** services. It focuses on reducing time, carbon footprint, and accessibility barriers.
-
-**Key Features:**
-- Multi-transport route planner with filters (fastest, greenest, cheapest)  
-- Real-time traffic and transit data integration  
-- Carbon savings tracker and eco-stats dashboard  
-- Accessible route recommendations for differently-abled users  
-- Trip history and predictive suggestions  
-
-**Tech Used:** React Native (Expo) | REST APIs | Firebase | Geolocation | Google Maps API  
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📈 GitHub Stats
 
 ![Bhuwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuwanb23&show_icons=true&theme=tokyonight&hide=prs,issues)
