@@ -30,7 +30,6 @@ I prioritize:
 
 | Project | Description |
 |------|------------|
-| **HackPrep** | Desktop-based AI hackathon OS for ideation, evaluation, datasets, pitching, and team crisis management |
 | **AI Coding Agent** | Multi-file autonomous coding agent capable of planning, editing, and completing full tasks |
 | **UrbanFlow** | Smart mobility and traffic optimization system using AI-driven insights |
 | **Cognitive Supply Chain Mesh (CSCM)** | Decentralized, federated AI system for intelligent retail supply chain optimization |
@@ -42,8 +41,6 @@ I prioritize:
 | Project | One-Line Summary |
 |------|----------------|
 | **REGIQ** | AI compliance copilot for fintech regulatory intelligence and risk prediction |
-| **Startup Intelligence Portal** | Market analysis, dashboards, IPR management, and startup performance analytics |
-| **Hackathon Idea Evaluation AI** | Structured AI system for scoring and explaining hackathon ideas |
 | **Lunar Landslide Detection System** | Computer vision system for terrain instability detection |
 | **Electron Custom Browser Tools** | Lightweight Electron apps for low-end and focused workflows |
 | **Offline-First Applications** | Local-only apps with sync logic and zero cloud dependency |
@@ -55,7 +52,6 @@ I prioritize:
 
 | Name | Domain | Core Technologies |
 |---|---|---|
-| HackPrep | Hackathon Platform | AI Agents, Electron, LLMs |
 | CSCM | Supply Chain AI | Digital Twins, Federated Learning |
 | UrbanFlow | Smart Mobility | AI Analytics, Optimization |
 | REGIQ | FinTech Compliance | Explainable AI, Risk Models |
@@ -85,40 +81,75 @@ I prioritize:
 ---
 [![](https://visitcount.itsvg.in/api?id=bhuwanb23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 📈 GitHub Stats
-
-![Bhuwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuwanb23&show_icons=true&theme=tokyonight&hide=prs,issues)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuwanb23&layout=compact&theme=tokyonight)
-
 ---
 ## Areas of Interest
 
-- Autonomous AI agents  
-- Hackathon tooling & developer productivity  
-- Smart cities & mobility intelligence  
-- Supply chain optimization  
-- Trustworthy and explainable AI  
-- Low-resource and offline-first systems  
+<table>
+  <tr>
+    <td width="50%">
+
+- 🤖 **Autonomous AI Agents**  
+  Self-directed systems capable of planning, reasoning, and execution  
+
+- ⚙️ **Hackathon Tooling & Developer Productivity**  
+  Platforms that accelerate ideation, delivery, and collaboration  
+
+- 🚦 **Smart Cities & Mobility Intelligence**  
+  Data-driven optimization for urban movement and infrastructure  
+
+    </td>
+    <td width="50%">
+
+- 📦 **Supply Chain Optimization**  
+  Decentralized, intelligent, and resilient logistics systems  
+
+- 🔍 **Trustworthy & Explainable AI**  
+  Transparent decision-making with human-in-the-loop control  
+
+- 💾 **Low-Resource & Offline-First Systems**  
+  Software designed for constrained environments  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Philosophy
 
-- I build **systems, not just features**  
-- Every project should be **integrable, explainable, and practical**  
-- AI must assist humans, not replace accountability  
-- Good software respects constraints  
+<table>
+  <tr>
+    <td>
+
+- 🧠 I build **systems, not just features**  
+- 🧩 Every solution should be **integrable, explainable, and practical**  
+- 🤝 AI should **augment human decision-making**, not remove accountability  
+- ⚖️ Good software **respects real-world constraints**
+
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Fun Facts
 
-- I naturally think in platforms and ecosystems  
-- Most of my projects start from real operational problems  
-- I enjoy simplifying complex AI into usable products  
-- I prefer tools that help other builders move faster  
+<table>
+  <tr>
+    <td width="50%">
+
+- 🏗️ I naturally think in **platforms and ecosystems**  
+- 🧪 Most ideas originate from **real operational problems**
+
+    </td>
+    <td width="50%">
+
+- 🧠 I enjoy simplifying **complex AI into usable products**  
+- 🚀 I prefer building tools that **help other builders move faster**
+
+    </td>
+  </tr>
+</table>
 
 ---
 
