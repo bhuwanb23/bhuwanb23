@@ -1,10 +1,67 @@
-# 👋 Hi, I'm Bhuwan B
+<div align="center">
 
-🚀 A passionate developer, designer, and innovator working on AI-powered products for education, smart campuses, urban mobility, and more.
+# Bhuwan B  
+### AI Systems Builder | Full-Stack Engineer | Hackathon & Platform Architect
 
-# 💫 About Me:
-I am currently working on<br><br>Building HackPrep, a desktop-based AI-powered hackathon preparation platform with end-to-end support for ideation, evaluation, datasets, pitching, and crisis management.<br><br>Designing a multi-file autonomous coding agent capable of understanding tasks, planning execution, and modifying entire project structures.<br><br>Developing UrbanFlow, a smart mobility and traffic optimization system using AI-driven insights.<br><br>Refining Cognitive Supply Chain Mesh (CSCM), a decentralized AI system for intelligent retail supply chain optimization.<br><br>I have completed / actively built<br><br>AI Compliance Copilot (REGIQ) – An AI system for fintech compliance, regulatory intelligence, model auditability, and risk prediction.<br><br>Startup Intelligence Portal – A platform with dashboards for startup performance analysis, market insights, IPR management, and resource optimization.<br><br>Hackathon Idea Evaluation AI – A system that scores and explains hackathon ideas using structured AI reasoning.<br><br>Lunar Landslide Detection System – A computer vision–based system using deep learning models (YOLO, ViT) for pixel-level terrain analysis.<br><br>Electron-based Custom Browser & Tools – Lightweight Electron applications for low-end systems, including video-focused browsers and productivity tools.<br><br>Offline-first Web Applications – Applications designed with local storage, sync mechanisms, and zero cloud dependency.<br><br>Creative AI Prompt Systems – High-quality prompts for video generation, ASMR, cinematic visuals, and surreal realism.<br><br>Key projects (one line each)<br><br>HackPrep – AI-powered hackathon OS for ideation, execution, evaluation, and pitching<br><br>UrbanFlow – Smart city traffic and mobility optimization platform<br><br>CSCM – Federated, agent-based retail supply chain intelligence system<br><br>REGIQ – AI compliance and regulatory risk analysis platform for fintech<br><br>Lunar Landslide AI – Vision-based terrain instability detection system<br><br>Startup Portal – Market intelligence and performance analytics dashboard<br><br>AI Coding Agent – Multi-file, task-aware autonomous code generator<br><br>Electron Tools – Custom browsers and desktop utilities for low-end systems<br><br>Tech stack & tools<br><br>Languages: JavaScript, Python, TypeScript<br><br>Frontend: React, Vite, Electron, HTML, CSS<br><br>Backend: Node.js, Python<br><br>AI / ML: LLMs, Computer Vision, YOLO, Vision Transformers (ViT), Federated Learning, AI Agents<br><br>Desktop & Systems: Electron.js, WebView2<br><br>Architecture: Multi-agent systems, offline-first design, modular systems, digital twins<br><br>Tools & Platforms: Ollama, GitHub, REST APIs, local-first storage<br><br>Areas of interest<br><br>AI agents and autonomous systems<br><br>Hackathon tooling and developer productivity<br><br>Smart cities and mobility intelligence<br><br>Supply chain optimization<br><br>Explainable and trustworthy AI<br><br>Offline-first and low-resource systems<br><br>Fun facts about me<br><br>I don’t just build projects—I design entire systems and ecosystems.<br><br>Most of my ideas start from real-world constraints, not trends.<br><br>I enjoy turning complex AI concepts into practical, usable software.<br><br>I prefer building tools that help builders, founders, and hackers.<br><br>I often think in terms of platforms, not single applications.
+Building intelligent systems, autonomous agents, and developer-centric platforms that solve real-world problems.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Active-black?logo=github)](https://github.com/)
+[![AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue)](#)
+[![Electron](https://img.shields.io/badge/Desktop-Electron.js-lightgrey)](#)
+[![Offline](https://img.shields.io/badge/Design-Offline--First-success)](#)
+
+</div>
+
+---
+
+## About Me
+
+I am a systems-oriented developer focused on building **practical AI platforms**, **autonomous agents**, and **scalable software architectures**.  
+My work spans AI agents, computer vision, supply chain intelligence, smart mobility, and developer productivity tools—often designed as **full ecosystems rather than single applications**.
+
+I prioritize:
+- Real-world constraints over theoretical demos  
+- Explainability, modularity, and integration  
+- Tools that empower builders, founders, and teams  
+
+---
+
+## Current Work
+
+| Project | Description |
+|------|------------|
+| **HackPrep** | Desktop-based AI hackathon OS for ideation, evaluation, datasets, pitching, and team crisis management |
+| **AI Coding Agent** | Multi-file autonomous coding agent capable of planning, editing, and completing full tasks |
+| **UrbanFlow** | Smart mobility and traffic optimization system using AI-driven insights |
+| **Cognitive Supply Chain Mesh (CSCM)** | Decentralized, federated AI system for intelligent retail supply chain optimization |
+
+---
+
+## Completed & Active Projects
+
+| Project | One-Line Summary |
+|------|----------------|
+| **REGIQ** | AI compliance copilot for fintech regulatory intelligence and risk prediction |
+| **Startup Intelligence Portal** | Market analysis, dashboards, IPR management, and startup performance analytics |
+| **Hackathon Idea Evaluation AI** | Structured AI system for scoring and explaining hackathon ideas |
+| **Lunar Landslide Detection System** | Computer vision system for terrain instability detection |
+| **Electron Custom Browser Tools** | Lightweight Electron apps for low-end and focused workflows |
+| **Offline-First Applications** | Local-only apps with sync logic and zero cloud dependency |
+| **Creative AI Prompt Systems** | High-quality prompt frameworks for video, ASMR, and cinematic AI generation |
+
+---
+
+## Flagship Projects (Deep Focus)
+
+| Name | Domain | Core Technologies |
+|---|---|---|
+| HackPrep | Hackathon Platform | AI Agents, Electron, LLMs |
+| CSCM | Supply Chain AI | Digital Twins, Federated Learning |
+| UrbanFlow | Smart Mobility | AI Analytics, Optimization |
+| REGIQ | FinTech Compliance | Explainable AI, Risk Models |
+| Lunar Landslide AI | Computer Vision | YOLO, ViT |
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhuwanb23) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhuwanseervi4567@gmail.com) 
@@ -36,6 +93,34 @@ I am currently working on<br><br>Building HackPrep, a desktop-based AI-powered h
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuwanb23&layout=compact&theme=tokyonight)
 
 ---
+## Areas of Interest
+
+- Autonomous AI agents  
+- Hackathon tooling & developer productivity  
+- Smart cities & mobility intelligence  
+- Supply chain optimization  
+- Trustworthy and explainable AI  
+- Low-resource and offline-first systems  
+
+---
+
+## Philosophy
+
+- I build **systems, not just features**  
+- Every project should be **integrable, explainable, and practical**  
+- AI must assist humans, not replace accountability  
+- Good software respects constraints  
+
+---
+
+## Fun Facts
+
+- I naturally think in platforms and ecosystems  
+- Most of my projects start from real operational problems  
+- I enjoy simplifying complex AI into usable products  
+- I prefer tools that help other builders move faster  
+
+---
 
 ## 🤝 Connect With Me
 
@@ -43,4 +128,10 @@ I am currently working on<br><br>Building HackPrep, a desktop-based AI-powered h
 - 📫 Email: bhuwanseervi4567@gmail.com
 - 🌐 Portfolio: [website](https://bhuwanb23.github.io/portfolio)
 
-Let’s build something impactful together!
+
+<div align="center">
+
+**Building tools for builders.**
+
+</div>
+
